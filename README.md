@@ -8,4 +8,4 @@
 ![image](https://github.com/mesanyaa/WorkoutDiary/assets/115028083/d6636290-5e73-41a1-8d16-1eb75c7406d8)
 
 
-<p>В работе использовались: Geolocation API, LeafLet API, LocalStorage</p>
+<p style="font-size: 24px;">В работе использовались: Geolocation API, LeafLet API, LocalStorage, ООП</p>
